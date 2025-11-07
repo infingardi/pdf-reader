@@ -31,14 +31,14 @@ Criar um sistema que:
 
 ## Configuração do Ambiente
 
-### 1 Pré-requisitos
+### 1. Pré-requisitos
 - Python 3.9+
 - Git instalado
 - Conta na OpenAI (com API key fornecida pelo desafio)
 
 ---
 
-### 2 Clone o repositório
+### 2. Clone o repositório
 
 ```bash
 git clone git@github.com:infingardi/pdf-reader.git
@@ -47,7 +47,7 @@ cd pdf-reader
 
 --- 
 
-### 3 Rodando o projeto
+### 3. Rodando o projeto
 
 1. Crie o arquivo `.env` na raiz do projeto e adicione sua chave da OpenAI:
    ```bash
