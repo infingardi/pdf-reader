@@ -4,7 +4,7 @@ Solução desenvolvida para o **Take Home Project** da **Enter AI Fellowship**, 
 
 ---
 
-## 🚀 Objetivo
+## Objetivo
 
 Criar um sistema que:
 - Receba como entrada:  
@@ -12,9 +12,9 @@ Criar um sistema que:
 - Retorne:  
   As informações extraídas no formato JSON.
 - Atenda os requisitos:  
-  ⚡ Tempo de resposta < **10s**  
-  🎯 Acurácia ≥ **80%**  
-  💰 Custo mínimo de execução  
+   Tempo de resposta < **10s**  
+   Acurácia ≥ **80%**  
+   Custo mínimo de execução  
 
 ---
 
