@@ -43,6 +43,7 @@ Criar um sistema que:
 ```bash
 git clone git@github.com:infingardi/pdf-reader.git
 cd pdf-reader
+```
 
 --- 
 
@@ -51,10 +52,12 @@ cd pdf-reader
 1. Crie o arquivo `.env` na raiz do projeto e adicione sua chave da OpenAI:
    ```bash
    OPENAI_API_KEY=sk-sua-chave-aqui
+   ```
 
 2. Ative o ambiente virtual (Windows)
   ```bash
   ./setup_env.bat
+```
 
 
 ## Configuração do Ambiente
@@ -62,6 +65,7 @@ cd pdf-reader
 1. Após iniciar o servidor, acesse o endereço:
   ```bash
   http://127.0.0.1:8000
+```
 
 2. Selecione a pasta que contém:
  - O arquivo dataset.json
